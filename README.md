@@ -23,21 +23,19 @@ Instead of manually searching through multiple schemes, users can provide their 
 
 ## Technology Stack
 
-### Backend
-
-- Python
-- FastAPI
-- NLP-based information extraction
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Vector database
-
 ### Frontend
 
 - React
 - JavaScript
-- Vite
+- HTML
 - CSS
+- Vite
+
+### Backend
+
+- Python
+- Flask
+- REST API
 
 ### AI and Data Processing
 
@@ -49,7 +47,7 @@ Instead of manually searching through multiple schemes, users can provide their 
 
 ## Project Structure
 
-```text
+```
 SchemeSense-AI/
 ├── backend/
 │   ├── app/
@@ -69,8 +67,7 @@ SchemeSense-AI/
 ├── tests/
 ├── README.md
 └── .gitignore
-
-## Project Screenshots
+```
 
 ## Project Screenshots
 
