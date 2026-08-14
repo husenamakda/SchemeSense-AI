@@ -24,6 +24,7 @@ Instead of manually searching through multiple schemes, users can provide their 
 ## Technology Stack
 
 ### Backend
+
 - Python
 - FastAPI
 - NLP-based information extraction
@@ -32,12 +33,14 @@ Instead of manually searching through multiple schemes, users can provide their 
 - Vector database
 
 ### Frontend
+
 - React
 - JavaScript
 - Vite
 - CSS
 
 ### AI and Data Processing
+
 - Natural Language Processing (NLP)
 - Large Language Models (LLMs)
 - Eligibility matching
