@@ -23,30 +23,26 @@ Instead of manually searching through multiple schemes, users can provide their 
 
 ## Technology Stack
 
-### Frontend
-- React
-- Vite
-- JavaScript
-- HTML
-- CSS
-
 ### Backend
 - Python
 - FastAPI
-- NLP processing
-- Vector-based retrieval
-- LLM integration
-
-### AI / NLP
-- Natural Language Processing
+- NLP-based information extraction
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- Semantic similarity and eligibility matching
+- Vector database
 
-### Testing
-- Python-based tests
-- Parser testing
-- LLM-related testing
+### Frontend
+- React
+- JavaScript
+- Vite
+- CSS
+
+### AI and Data Processing
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Eligibility matching
+- Vector search
+- Retrieval-Augmented Generation (RAG)
 
 ## Project Structure
 
@@ -70,22 +66,3 @@ SchemeSense-AI/
 ├── tests/
 ├── README.md
 └── .gitignore
-## Project Screenshots
-
-### 1. Natural Language Input
-![Natural Language Input](./fig1_input.png)
-
-### 2. User Profile
-![User Profile](./fig2_profile.png)
-
-### 3. Eligibility Analysis
-![Eligibility Analysis](./fig3_eligible.png)
-
-### 4. Scheme Comparison
-![Scheme Comparison](./fig4_comparison.png)
-
-### 5. Scheme Recommendation
-![Scheme Recommendation](./fig5_recommendation.png)
-
-### 6. AI Chat Assistant
-![AI Chat Assistant](./fig6_chat.png)
