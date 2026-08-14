@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "name": "Central Scholarship Scheme",
+        "min_age": 18,
+        "max_age": 25,
+        "occupation": "Student",
+        "education": "Engineering",
+        "max_income": 300000,
+        "states": ["Karnataka", "Gujarat", "Maharashtra"],
+        "benefit": "₹50,000 scholarship"
+    },
+    {
+        "id": 2,
+        "name": "AICTE Pragati Scholarship",
+        "min_age": 18,
+        "max_age": 30,
+        "occupation": "Student",
+        "education": "Engineering",
+        "max_income": 800000,
+        "states": [
+            "Karnataka",
+            "Gujarat",
+            "Maharashtra",
+            "Delhi",
+            "Tamil Nadu"
+        ],
+        "benefit": "₹50,000 per year"
+    },
+    {
+        "id": 3,
+        "name": "PM Kisan Samman Nidhi",
+        "min_age": 18,
+        "max_age": 100,
+        "occupation": "Farmer",
+        "education": "None",
+        "max_income": 99999999,
+        "states": [
+            "Karnataka",
+            "Gujarat",
+            "Maharashtra",
+            "Rajasthan"
+        ],
+        "benefit": "₹6,000 yearly support"
+    },
+    {
+        "id": 4,
+        "name": "Mukhyamantri Yuva Scholarship",
+        "min_age": 18,
+        "max_age": 28,
+        "occupation": "Student",
+        "education": "Engineering",
+        "max_income": 500000,
+        "states": [
+            "Karnataka"
+        ],
+        "benefit": "₹75,000 scholarship"
+    },
+    {
+        "id": 5,
+        "name": "Digital India Internship",
+        "min_age": 18,
+        "max_age": 30,
+        "occupation": "Student",
+        "education": "Engineering",
+        "max_income": 10000000,
+        "states": [
+            "Karnataka",
+            "Gujarat",
+            "Delhi",
+            "Maharashtra",
+            "Tamil Nadu"
+        ],
+        "benefit": "Paid internship"
+    }
+]
