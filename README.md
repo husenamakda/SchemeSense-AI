@@ -69,6 +69,7 @@ SchemeSense-AI/
 ├── tests/
 ├── README.md
 └── .gitignore
+
 ## Project Screenshots
 
 ## Project Screenshots
