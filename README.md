@@ -73,19 +73,19 @@ SchemeSense-AI/
 ## Project Screenshots
 
 ### 1. Natural Language Input
-![Natural Language Input](fig1_input.png)
+![Natural Language Input](./fig1_input.png)
 
 ### 2. User Profile
-![User Profile](fig2_profile.png)
+![User Profile](./fig2_profile.png)
 
 ### 3. Eligibility Analysis
-![Eligibility Analysis](fig3_eligible.png)
+![Eligibility Analysis](./fig3_eligible.png)
 
 ### 4. Scheme Comparison
-![Scheme Comparison](fig4_comparison.png)
+![Scheme Comparison](./fig4_comparison.png)
 
 ### 5. Scheme Recommendation
-![Scheme Recommendation](fig5_recommendation.png)
+![Scheme Recommendation](./fig5_recommendation.png)
 
 ### 6. AI Chat Assistant
-![AI Chat Assistant](fig6_chat.png)
+![AI Chat Assistant](./fig6_chat.png)
